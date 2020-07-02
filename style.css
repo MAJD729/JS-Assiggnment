@@ -1,0 +1,37 @@
+body{background-color: #c50003;
+font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;}
+#first-img{height: 150px;}
+#logo{height: 50px;
+width: 50px;
+margin-top: 7px;
+margin-left: 10px;}
+
+.text-color{color: #2d308e;}
+.name{color: #c50003;}
+#container{width: 25%;
+    float: left;
+}
+section{display: flex;}
+#content{color: white;
+width: 70%;
+margin-right: 50px;
+float: right;
+}
+#big{width: 100%;
+margin-top: 20px;}
+#log-in{display: none;}
+.email{color: white;}
+#sign-up{display: none;}
+#date{display: flex;}
+#flabel{margin-right: 100px;}
+#dropdown-menu{display: none;
+width: 10%;
+}
+#counter-text{width: 50px;
+color: white;
+display: none;}
+
+select {
+    display: block !important;
+    margin-right: 5px !important;
+}
